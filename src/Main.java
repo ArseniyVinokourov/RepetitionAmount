@@ -3,7 +3,6 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Collectors;
-//      есть строка "java scala ruby kafka kafka ruby", посчитать количество повторений. Крайне желательно сделать с помощью Streams.
 
 public class Main {
     public static void main(String[] args) {
